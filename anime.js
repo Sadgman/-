@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function rae(){
   <h2 id="fan">ANIME FAN SITE</h2>
       <nav id="lolo">
           <a class="total" href="">Historia</a>
-          <a class="total" href="https://chat.whatsapp.com/Eog8v5TdiBl6b9bopJ6bjT">Grupo</a>
+          <a class="total" href="https://chat.whatsapp.com/EsJmGTC0t0s5nTkbNeC2gq">Grupo</a>
           <a class="total" href="https://api.whatsapp.com/send/?phone=+50258482434">Contacto</a>
       </nav>
   </header>
