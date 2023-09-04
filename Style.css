@@ -27,11 +27,6 @@
     font-size: 18px;
     margin-right: 10px;
 }
-body {
-    background-image: url("yunogay1.png");
-    background-repeat: repeat;
-  }  
-
 /* Declaro los estilos el poster */
 .poster{
     display: inline;
