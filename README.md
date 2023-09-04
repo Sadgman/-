@@ -4,7 +4,7 @@
 
 This project is a complement to the [whatsapp group][gr] that in the future is expected to be an anime page.
 
-[gr]: https://chat.whatsapp.com/Eog8v5TdiBl6b9bopJ6bjT
+[gr]: https://chat.whatsapp.com/EsJmGTC0t0s5nTkbNeC2gq
 
 [afs]: https://sadgman.github.io/Anime-page-project
 
