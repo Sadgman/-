@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function rae(){
       }
       document.querySelectorAll(".cap-num-ep").forEach(link => link.addEventListener("click", function addOption(cap){
         document.body.innerHTML = ""
-        history.pushState({page: 3}, "video anime", "?robi");
+        history.pushState({page: 3}, "video anime");
         current = addOption
         addOptionn = addOption
         const EDR = `
