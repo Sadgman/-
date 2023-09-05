@@ -105,9 +105,44 @@
     margin-top: 10%;
 }
 @media only screen and (max-width: 767px) {
-
+    #EDR{
+        padding: 3px 6px 0 0;
+    }
+    #EDR h2{
+        margin-top: 5px;
+        margin-left: 9px;
+        display: inline-block;
+    }
+    #lolo{
+        display: inline-block;
+        margin-top: 9px;
+    }
     .total{
-        display: none;
+        margin-right: 10px;
+        font-size: 16px; 
+    }
+    #poster-present{
+        width: 150px;
+        height: 250px;
+    }
+    #container-text-poster{
+        height: fit-content;
+    }
+    #container-text-poster p{
+        position: absolute;
+        font-size: 10px;
     }
 }
+@media only screen and (max-width: 427px) {
+    #container-text-poster p{
+        font-size: 6px;
+    }
+    #poster-present{
+        width: 150px;
+        height: 200px;
+        padding-left: 0px;
+    }
+    
+}
+
 /* esto ya es para abajo */
