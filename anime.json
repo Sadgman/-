@@ -82,6 +82,19 @@
                             "onlyfans":""
                         }
                     }
+                },
+                "Pilgrim":{
+                    "description":"Scott Pilgrim es una serie de animación que se basa en las novelas gráficas del mismo nombre creadas por Bryan Lee O’Malley. La serie cuenta la historia de Scott Pilgrim, un joven músico que se enamora de Ramona Flowers, una misteriosa chica que tiene siete ex malvados que quieren impedir su relación. Scott deberá enfrentarse a ellos en combates llenos de acción, humor y referencias a la cultura pop.",
+                    "poster":{
+                        "principal":"https://th.bing.com/th/id/OIP.ewMY-zbeR6BL1cwtsLqMKAHaJ4?rs=1&pid=ImgDetMain",
+                        "alternativa":""
+                    },
+                    "caps":{
+                        "capitulo1": {
+                            "mega":"",
+                            "onlyfans":"https://player.vimeo.com/video/888312645?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
+                        }
+                    }
                 }
                           
         }                   
