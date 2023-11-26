@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function rae(){
   <section id="section-poster"></section>`
   document.body.insertAdjacentHTML("afterbegin",EDS)
   const section_poster = document.querySelector("#section-poster")
-  fetch("anime.json").then(response => response.json()).then(data => {
+  fetch("data/anime.json").then(response => response.json()).then(data => {
     for(let namean in data.name){
       const anime_caps_option_poster = `
       <img class="poster" id="${namean}" src="${data.name[namean].poster.principal}" alt="${data.name[namean].poster.alternativa}">`
