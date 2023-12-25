@@ -6,6 +6,9 @@ This project is a complement to the [whatsapp group][gr] that in the future is e
 
 [gr]: https://chat.whatsapp.com/EsJmGTC0t0s5nTkbNeC2gq
 
+> [!NOTE]
+> This link may or may not work.
+
 [afs]: https://sadgman.github.io/Anime-page-project
 
 ### **Disclaimer** 
