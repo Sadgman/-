@@ -95,7 +95,19 @@
                             "onlyfans":"https://player.vimeo.com/video/888312645?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479"
                         }
                     }
+                },
+                "Rubias":{
+                    "description":"",
+                    "poster":{
+                        "principal":"https://th.bing.com/th/id/OIP.9_-xBC4XRCBPP-aJu9WtBQHaJQ?pid=ImgDet&rs=1",
+                        "alternativa":""
+                    },
+                    "caps":{
+                        "capitulo1": {
+                            "mega":"",
+                            "onlyfans":"https://pixeldrain.com/api/file/mVNMkfHF"
+                        }
+                    }
                 }
-                          
         }                   
 }
